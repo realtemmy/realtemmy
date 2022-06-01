@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Temi(@realtemmy)
-- 👀 I’m interested in Artificial intelligence and front-end dev
+- 👀 I’m interested in Artificial intelligence and full stack
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on as many projects to improve my skills drastically!
 - 📫 How to reach me on Instagram, Twitter and whatsapp @_realtemmy, realtemmy and 08066771553 respectively.
