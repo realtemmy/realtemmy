@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Temi(@realtemmy)
 - 👀 I’m interested in building world solutions
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning python for AI/ML
 - 💞️ I’m looking to collaborate on as many projects to improve my skills drastically!
 - 📫 How to reach me on Instagram, Twitter and whatsapp @_realtemmy, realtemmy and 08066771553 respectively.
 
