@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temiloluwa</h1>
-<h3 align="center">A computer science undergrad</h3>
+<h3 align="center">A computer science undergrad at the University Of Lagos, Akoka.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realtemmy" alt="realtemmy" /></a> </p>
 
